@@ -13,6 +13,12 @@ excerpt:   A list of all of our articles.
 <div class="tile-wrap no-touch">
   <div class="tile">
     <div class="boxInner">
+      <a href="{{ site.github.url }}/features/alone-in-the-wilderness"><img src="{{ site.github.url }}/media/img/tiles/tile-alone.jpg" /></a>
+      <div class="titleBox"><a href="{{ site.github.url }}/features/alone-in-the-wilderness">ALONE IN THE WILDERNESS BY JOSEPH KNOWLES</a></div>
+    </div>
+  </div>
+  <div class="tile">
+    <div class="boxInner">
       <a href="{{ site.github.url }}/features/ups-and-downs"><img src="{{ site.github.url }}/media/img/tiles/tile-ups.jpg" /></a>
       <div class="titleBox"><a href="{{ site.github.url }}/features/ups-and-downs">CYCLING LONDON TO SCOTLAND: UPS AND DOWNS</a></div>
     </div>
