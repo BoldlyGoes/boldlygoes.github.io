@@ -12,6 +12,12 @@ excerpt:   Reviews of outdoor gear and techniques.
 <div class="tile-wrap no-touch">
     <div class="tile">
       <div class="boxInner">
+        <a href="{{ site.github.url }}/reviews/sparrow-review"><img src="{{ site.github.url }}/media/img/tiles/tile-sparrow.jpg" /></a>
+        <div class="titleBox"><a href="{{ site.github.url }}/reviews/sparrow-review">WISPORT SPARROW 20 LITRE BACKPACK REVIEW</a></div>
+      </div>
+    </div>
+    <div class="tile">
+      <div class="boxInner">
         <a href="{{ site.github.url }}/reviews/delta-gtx-review"><img src="{{ site.github.url }}/media/img/tiles/tile-deltagtx.jpg" /></a>
         <div class="titleBox"><a href="{{ site.github.url }}/reviews/delta-gtx-review">SCARPA DELTA GTX ACTIV REVIEW</a></div>
       </div>
