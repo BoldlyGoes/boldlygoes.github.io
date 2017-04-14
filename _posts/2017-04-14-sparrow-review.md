@@ -17,7 +17,7 @@ Cons
 : Expensive for a 20L
 : Heavy
 
- I bought my Sparrow from Military1st.co.uk in March 2016 for £60 after seeing it in use on the *AlfieAesthetics* outdoor youtube channel.  I have used the Sparrow as a hybrid pack over the past year, loading up the outer straps with everything I need for a microadventure or weekend trip, then once I have made camp, using it as a day pack on short hikes.  It’s impeccable build quality, versatile design and comfort have afforded me an enjoyable, more efficient hiking and camping experience with minimal drawbacks.  The standard Wisport 5 year warranty is the cherry the top.
+ I bought my Sparrow from Military1st.co.uk in March 2016 for £60 after seeing it in use on the *AlfieAesthetics* outdoor youtube channel.  I have used the Sparrow as a hybrid pack over the past year, loading up the outer straps with everything I need for a microadventure or weekend trip, then once I have made camp, using it as a day pack on short hikes.  Its impeccable build quality, versatile design and comfort have afforded me an enjoyable, more efficient hiking and camping experience with minimal drawbacks.  The standard Wisport 5 year warranty is the cherry the top.
 
 ![]({{ site.github.url }}/media/img/sparrow/backpack.jpg)
 
