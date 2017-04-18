@@ -33,7 +33,7 @@ Because I’m going to be making my trips in the summer (albeit a British summer
 
 ### Repacking
 
-The first step in lightening my pack is also the easiest and certainly the cheapest, I'm going to unpack everything and start from the beginning.  Starting from the bottom is going to force me to tackle everything I put into my pack; I'm looking at each item in a new light now, a revealing, minimalist, white light which isn’t flattering to anything but the essential.  I'm going to need to really think about how important everything is before I put it in my bag, and it’s likely my bag can lose some weight too.
+The first step in lightening my pack is also the easiest and certainly the cheapest, I'm going to unpack everything and start from the beginning.  Starting from the bottom is going to force me to tackle everything I put into my pack; I'm looking at each item in a new light now; a revealing, minimalist, white light which isn’t flattering to anything but the essential.  I'm going to need to really think about how important everything is before I put it in my bag, and it’s likely my bag can lose some weight too.
 
 When I repacked the first time, I picked up only the things which are directly linked to my survival outdoors; water, shelter and food.
 
@@ -68,6 +68,6 @@ Regatta Survivor 65 pack - 1569g
 Total pack base weight - **4343g** - **9lb 9.19oz**!
 
 
-I've already hit a decent starting point, and it's only taken about 20 minutes.  Unless you’re cooking on a portable aga, at this point you should be pretty significantly below 15lbs, if not more, like me.  Here we have the essentials, as they were in my original pack, not particularly expensive or light but we're already hovering around our goal weight.  Obviously there's still a fair bit to add if I want to have a nice time while I hike: toiletries and perhaps some camp clothes, but we'll get to that later in the series. 
+I've already hit a decent starting point, and it's only taken about 20 minutes.  Unless you’re cooking on a portable Aga, at this point you should be pretty significantly below 15lbs, if not even less, like me.  Here we have the essentials, as they were in my original pack, not particularly expensive or light but we're already hovering around our goal weight.  Obviously there's still a fair bit to add if I want to have a nice time while I hike: toiletries and perhaps some camp clothes, but we'll get to that later in the series. 
 
 There's actually quite a lot we can do to reduce the weight even at this point, that's what I'll be doing in part two of this series: Refining the essential - look out for that in April!
