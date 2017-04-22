@@ -10,10 +10,6 @@ excerpt:   The Boldly Goes mission statement.
 
 ---
 
-## Blog
-
-Keep you up to date with our plans, builds, planning and trips.
-
 ---
 
 ## Reviews

@@ -70,4 +70,4 @@ For less money than a single titanium pot you get a complete, convenient, collap
 
 ## Rating 4/4
 
-The 28 makes for a brilliant starting stove for a new solo backpacker, and if you swap out some items it makes for a decent ultralight cookset for more experienced backpackers too.   All for less than the price of a single titanium cooking pot and a similar weight to many more expensive systems. 
+The 28 makes for a brilliant starting stove for a new solo backpacker or a decent ultralight option if you swap out the burner, all for less than the price of a single titanium cooking pot.
