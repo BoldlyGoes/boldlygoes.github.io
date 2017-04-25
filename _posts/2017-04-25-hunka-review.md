@@ -21,7 +21,7 @@ I bought my Hunka from Alpkit.com for £35 in May 2016 after seeing it recommend
 
 <figure>
 <img src="{{ site.github.url }}/media/img/hunka/length.jpg" />
-<figcaption>At 215cm x 80cm the Hunka just about accomodates my normal length sleeping bag. Anyone over 6'1" will want to upgrade to the Hunka XL.</figcaption>
+<figcaption>At 215cm x 80cm the Hunka just about accommodates my normal length sleeping bag. Anyone over 6'1" will want to upgrade to the Hunka XL.</figcaption>
 </figure>
 
 ## Quality
