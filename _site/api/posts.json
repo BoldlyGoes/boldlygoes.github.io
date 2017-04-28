@@ -2,6 +2,17 @@
 
   
     {
+        "title": "Borough Bivvy Bagging",
+        "category": "Features",
+        "url": "/features/borough-bivvy-bagging",
+        "tags": ["features"],
+        "date": "2017-04-28 00:00:00 +0100",
+        "language": "en"
+    },
+  
+
+  
+    {
         "title": "Aplkit Hunka Bivvy Bag Review",
         "category": "Reviews",
         "url": "/reviews/hunka-review",
