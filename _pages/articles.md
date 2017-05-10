@@ -13,6 +13,12 @@ excerpt:   A list of all of our articles.
 <div class="tile-wrap no-touch">
   <div class="tile">
       <div class="boxInner">
+        <a href="{{ site.github.url }}/features/kielder-observatory"><img src="{{ site.github.url }}/media/img/tiles/tile-kielder.jpg" /></a>
+        <div class="titleBox"><a href="{{ site.github.url }}/features/kielder-observatory">KIELDER OBSERVATORY AND SKYSPACE</a></div>
+      </div>
+    </div>
+  <div class="tile">
+      <div class="boxInner">
         <a href="{{ site.github.url }}/features/borough-bivvy-bagging"><img src="{{ site.github.url }}/media/img/tiles/tile-borough.jpg" /></a>
         <div class="titleBox"><a href="{{ site.github.url }}/features/borough-bivvy-bagging">BOROUGH BIVVY BAGGING</a></div>
       </div>

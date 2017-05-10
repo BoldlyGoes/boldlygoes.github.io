@@ -23,7 +23,7 @@ His words on the versatility of a wool rug inspired me to drag our old family wo
 
 <figure>
 <img src="{{ site.github.url }}/media/img/marchbotm/rug.jpg" />
-<figcaption>As well as keep you warm in the evenings, a wool rug makes carrying extra food and water a breeze.</figcaption>
+<figcaption>As well as keeping you warm in the evenings, a wool rug makes carrying extra food and water a breeze.</figcaption>
 </figure>
 
 In the final two chapters of the book, Gould has included extracts in full from the work of two other experts of the day.  The first, Reverend Edward Everett Hale, has some insights into the habits you should develop while hiking as well as a cautionary tale on not taking chances of adventure when they present themselves.  The second, Dr. Elliott Coues, offers advice on avoiding injury and illness outdoors, the preventative measures like keeping warm and always maintaining three points of contact when climbing still ring true.  I would, however, advise finding some more up-to-date information on reviving a drowned man that doesn’t involve rubbing their face to make it warm, then splashing cold water on it.
