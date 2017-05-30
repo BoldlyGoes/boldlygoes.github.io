@@ -41,6 +41,6 @@ A. The more you see, the more you realise there is to see - I have travelled to 
 
 <figure>
 <img src="{{ site.github.url }}/media/img/beaumont/team.jpg" />
-<figcaption>All photos coutesy of <a href="www.artemisworldcycle.com">artemisworldcycle.com</a> </figcaption>
+<figcaption>The Artemis World Cycle Team. (All photos coutesy of <a href="www.artemisworldcycle.com">artemisworldcycle.com</a>) </figcaption>
 </figure>
 
