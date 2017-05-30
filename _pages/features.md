@@ -1,16 +1,22 @@
 ---
 layout:    default
-permalink: "/articles/"
+permalink: "/features/"
 author:    boldlygoes
 keywords:  articles trips notes more
-title:     Articles
-menutitle: Articles
+title:     Features
+menutitle: Features
 weight:    90
 excerpt:   A list of all of our articles.
 
 ---
 
 <div class="tile-wrap no-touch">
+  <div class="tile">
+      <div class="boxInner">
+        <a href="{{ site.github.url }}/features/mark-beaumont-interview"><img src="{{ site.github.url }}/media/img/tiles/tile-beaumont.jpg" /></a>
+        <div class="titleBox"><a href="{{ site.github.url }}/features/mark-beaumont-interview">Q&A WITH MARK BEAUMONT</a></div>
+      </div>
+    </div>
   <div class="tile">
       <div class="boxInner">
         <a href="{{ site.github.url }}/features/kielder-observatory"><img src="{{ site.github.url }}/media/img/tiles/tile-kielder.jpg" /></a>
