@@ -17,7 +17,7 @@ We spoke with Mark Beaumont, one of Britain’s top adventurers, as he puts toge
 
 **Q. What do we need to know about you 80 days adventure? How we can we support and follow your journey?**
 
-A. Having cycled around the World unsupported ‘wild man’ style in 194 days a decade ago, I have always wondered how much quicker I could go if I had full support and trained professionally.  Around the World in 80 Days has taken the last few years in the planning and will mean riding 16 hours a day for 75 days, with 3 days of flight and 2 days contingency.  The current circumnavigation World Record is 123 days held by Andrew Nicholson from New Zealand, and so I aim to take this down by around 43 days.  Success for me would be coming home safely, including my whole support team, and feeling that we have left absolutely everything out there.  The golden standard is around the World in 80 Days, as this would be a one-time prize - you won’t remember the second person to go sub 80!  You can follow at [artemisworldcycle.com](www.artemisworldcycle.com) or [markbeaumontonline.com](https://markbeaumontonline.com/) and through social media at [Facebook](https://www.facebook.com/MarkBeaumontAdventures/), [Twitter](https://twitter.com/mrmarkbeaumont?lang=en) and [Instagram](https://www.instagram.com/mrmarkbeaumont/).
+A. Having cycled around the World unsupported ‘wild man’ style in 194 days a decade ago, I have always wondered how much quicker I could go if I had full support and trained professionally.  Around the World in 80 Days has taken the last few years in the planning and will mean riding 16 hours a day for 75 days, with 3 days of flight and 2 days contingency.  The current circumnavigation World Record is 123 days held by Andrew Nicholson from New Zealand, and so I aim to take this down by around 43 days.  Success for me would be coming home safely, including my whole support team, and feeling that we have left absolutely everything out there.  The golden standard is around the World in 80 Days, as this would be a one-time prize - you won’t remember the second person to go sub 80!  You can follow at [artemisworldcycle.com](http://www.artemisworldcycle.com) or [markbeaumontonline.com](https://markbeaumontonline.com/) and through social media at [Facebook](https://www.facebook.com/MarkBeaumontAdventures/), [Twitter](https://twitter.com/mrmarkbeaumont?lang=en) and [Instagram](https://www.instagram.com/mrmarkbeaumont/).
 
 **Q. For the bike nerds, can you tell us a little about your setup and gear, does it differ much from your previous round the world cycle?**
 
@@ -41,6 +41,6 @@ A. The more you see, the more you realise there is to see - I have travelled to 
 
 <figure>
 <img src="{{ site.github.url }}/media/img/beaumont/team.jpg" />
-<figcaption>The Artemis World Cycle Team. (All photos coutesy of <a href="www.artemisworldcycle.com">artemisworldcycle.com</a>) </figcaption>
+<figcaption>The Artemis World Cycle Team. (All photos coutesy of <a href="http://www.artemisworldcycle.com">artemisworldcycle.com</a>) </figcaption>
 </figure>
 
