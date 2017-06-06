@@ -39,6 +39,35 @@ You can also plot routes for either running, walking, or cycling, which you can 
 
 In the time I’ve been using the app I have found it to be very reliable and useful. The practicalities of being able to quickly glance at a phone beats stopping to unfold a map, particularly in windy conditions. I have found the GPS location to be very accurate even when far away from mobile service. Obviously you need to be wary about the safety of your device, most mobile devices are still vulnerable to damage whilst being used in adverse conditions. I use a Quadlock phone case with a rain cover which I would highly recommend.
 
+<div class="album">
+    <figure>
+        <img src="{{ site.github.url }}/media/img/osapp/1-title.jpg" />
+
+    </figure>
+    <figure>
+        <img src="{{ site.github.url }}/media/img/osapp/2-options.jpg" />
+
+    </figure>
+    <figure>
+        <img src="{{ site.github.url }}/media/img/osapp/3-derwent1.jpg" />
+
+    </figure>
+    <figure>
+        <img src="{{ site.github.url }}/media/img/osapp/4-derwent2.jpg" />
+
+    </figure>
+
+    <figure>
+        <img src="{{ site.github.url }}/media/img/osapp/5-route.jpg" />
+
+    </figure>
+    <figure>
+        <img src="{{ site.github.url }}/media/img/osapp/6-sharing.jpg" />
+
+    </figure>
+
+</div>
+
 ### Conclusion
 
 I would highly recommend this app. It functions very well and is reliable when you need it to be, although I would still recommend using it in addition to a physical map and compass, rather than solely relying on it.  
