@@ -12,6 +12,12 @@ excerpt:   Reviews of outdoor gear and techniques.
 <div class="tile-wrap no-touch">
     <div class="tile">
       <div class="boxInner">
+        <a href="{{ site.github.url }}/reviews/os-app-review"><img src="{{ site.github.url }}/media/img/tiles/tile-osapp.jpg" /></a>
+        <div class="titleBox"><a href="{{ site.github.url }}/reviews/os-app-review">OS MAPS APP REVIEW</a></div>
+      </div>
+    </div>
+    <div class="tile">
+      <div class="boxInner">
         <a href="{{ site.github.url }}/reviews/compact-ultra-twins"><img src="{{ site.github.url }}/media/img/tiles/tile-twins.jpg" /></a>
         <div class="titleBox"><a href="{{ site.github.url }}/reviews/compact-ultra-twins">ALPKIT COMPACT ULTRA TWINS REVIEW</a></div>
       </div>
