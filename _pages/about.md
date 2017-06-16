@@ -6,7 +6,7 @@ keywords:  about boldly goes reviews founders
 title:     
 menutitle: About
 weight:    90
-excerpt:   The Boldly Goes mission statement.
+excerpt:   The Boldly Goes mission statement.
 
 ---
 
@@ -21,6 +21,8 @@ Boldy Goes was founded by three lads from Hertfordshire; James, Harvey, and Sam,
 If you have any enquiries please don’t hesitate to get in touch: [boldlygoesuk@gmail.com ](mailto:boldlygoesuk@gmail.com )
 
 If you'd like to support us please consider using our [Amazon Affiliate link](https://www.amazon.co.uk/?_encoding=UTF8&camp=1634&creative=6738&linkCode=ur2&tag=bolgoe-21) 
+
+Follow us on [Instagram](https://www.instagram.com/boldly_goes/) or [Twitter](https://twitter.com/BoldlyGoesUK)
 
 Happy Adventuring!   
 
