@@ -8,6 +8,12 @@ tags:              features
 comments:          true
 ---
 
+<meta property="og:url"                content="https://boldlygoes.co.uk/features/black-sail" />
+<meta property="og:type"               content="article" />
+<meta property="og:title"              content="When Great Minds Don’t Think Alike" />
+<meta property="og:description"        content="Our weekend trip to the Lake District." />
+<meta property="og:image"              content="https://boldlygoes.co.uk/media/img/blacksail/11-greatgable.jpg" />
+
 Black Sail is a pretty special youth hostel. It has a reputation as one of the most inaccessible youth hostels in the UK. Based in the heart of the Lake District, it is only accessible by either a six mile trek up the valley from Ennerdale (not the TV show) or by mountain pass. However, just because it’s remote, that doesn’t mean it isn’t popular. The hostel is closed over the colder months (November thru to March) and has just 16 beds (eight male and eight female), which means that the weekends over the popular summer season get booked up fast.
 
 We managed to bag four beds on a Sunday night in May by booking the previous October and then decided to plan a slightly bigger trip around that booking. The Lake District does not legally permit wild camping but it is tolerated as long as some [quite reasonable rules](http://www.lakedistrict.gov.uk/visiting/where-to-stay/wild-camping) are followed. After driving up from Hertfordshire on the Friday we stopped off at The Twa Dogs in Keswick to plan a route and general wild camping spots for the Friday and Saturday nights, taking us to Black Sail on Sunday night and back to the car on Monday.
