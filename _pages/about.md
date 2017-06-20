@@ -20,7 +20,9 @@ Boldy Goes was founded by three lads from Hertfordshire; James, Harvey, and Sam,
 
 If you have any enquiries please don’t hesitate to get in touch: [boldlygoesuk@gmail.com ](mailto:boldlygoesuk@gmail.com )
 
-If you'd like to support us please consider using our [Amazon Affiliate link](https://www.amazon.co.uk/?_encoding=UTF8&camp=1634&creative=6738&linkCode=ur2&tag=bolgoe-21) 
+We use amazon affiliate links on this site, Amazon pays us an advertising fee every time something is bought through one of our product links. This allows us to make some petrol money for future camping trips while remaining unbiased when reviewing products.
+
+If you'd like to support us please consider using our general [Amazon Affiliate link](https://www.amazon.co.uk/?_encoding=UTF8&camp=1634&creative=6738&linkCode=ur2&tag=bolgoe-21) whenever you shop on Amazon.
 
 Follow us on [Instagram](https://www.instagram.com/boldly_goes/) or [Twitter](https://twitter.com/BoldlyGoesUK)
 
