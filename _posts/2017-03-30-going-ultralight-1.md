@@ -70,4 +70,4 @@ Total pack base weight - **4343g** - **9lb 9.19oz**!
 
 I've already hit a decent starting point, and it's only taken about 20 minutes.  Unless you’re cooking on a portable Aga, at this point you should be pretty significantly below 15lbs, if not even less, like me.  Here we have the essentials, as they were in my original pack, not particularly expensive or light but we're already hovering around our goal weight.  Obviously there's still a fair bit to add if I want to have a nice time while I hike: toiletries and perhaps some camp clothes, but we'll get to that later in the series. 
 
-There's actually quite a lot we can do to reduce the weight even at this point, that's what I'll be doing in part two of this series: Refining the essential - look out for that in April!
+There's actually quite a lot we can do to reduce the weight even at this point, that's what I'll be doing in part two of this series: [Refining the essential]({{ site.github.url }}/features/going-ultralight-2).
