@@ -40,12 +40,14 @@ If my pack weight continues to drop, removing more adjustment straps and even th
 So, I’ve spent a grand total of £2.40 and saved **601g / 1lb 5.2oz**. Now I have refined the essential components of my ultralight set up, I am going to add a small bag of toiletries and quality of life improvers which I think are well worth the weight.  
 
 Extra items:
+
 - Sawn off toothbrush and a small tube of toothpaste
 - Sunblock
 - Alcohol gel and toilet paper
 - Tiny but useful microfibre towel
 - Compass
-Total weight: **171g**
+
+Total weight: **171g**.
 
 <figure>
 <img src="{{ site.github.url }}/media/img/ultralight2/complete.jpg" />
