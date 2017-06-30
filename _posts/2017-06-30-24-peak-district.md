@@ -4,7 +4,7 @@ title:             "24 hours in the Peak District: Summer Solstice Camp"
 menutitle:         "24 hours in the Peak District: Summer Solstice Camp"
 category:          Features
 author:            JB
-tags:              microadventures mushrooms camping
+tags:              features
 comments:          true
 cover:             /media/img/peakdistrict/4_clouds.jpg
 ---
