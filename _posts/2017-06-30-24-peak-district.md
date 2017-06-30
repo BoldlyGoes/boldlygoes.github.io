@@ -1,7 +1,7 @@
 ---
 layout:            post
-title:             "24 hours: in the Peak District"
-menutitle:         "24 hours: in the Peak District"
+title:             "24 hours in the Peak District: Summer Solstice Camp"
+menutitle:         "24 hours in the Peak District: Summer Solstice Camp"
 category:          Features
 author:            JB
 tags:              microadventures mushrooms camping
