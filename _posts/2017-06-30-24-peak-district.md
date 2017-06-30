@@ -64,4 +64,7 @@ I have written of having a digital detox [before]({{ site.github.url }}/features
     <figure>
         <img src="{{ site.github.url }}/media/img/peakdistrict/album_7.jpg" />
     </figure>
+     <figure>
+        <img src="{{ site.github.url }}/media/img/peakdistrict/album_8.jpg" />
+    </figure>
 </div>
