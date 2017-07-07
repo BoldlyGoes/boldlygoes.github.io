@@ -2,10 +2,21 @@
 
   
     {
-        "title": "24 hours: in the Peak District",
+        "title": "A wild tea tasting session",
+        "category": "Features",
+        "url": "/features/wild-teas",
+        "tags": ["features"],
+        "date": "2017-07-07 00:00:00 +0100",
+        "language": "en"
+    },
+  
+
+  
+    {
+        "title": "24 hours in the Peak District: Summer Solstice Camp",
         "category": "Features",
         "url": "/features/24-peak-district",
-        "tags": ["microadventures","mushrooms","camping"],
+        "tags": ["features"],
         "date": "2017-06-30 00:00:00 +0100",
         "language": "en"
     },
@@ -35,7 +46,7 @@
 
   
     {
-        "title": "24 Hours: in the Wicklow Mountains",
+        "title": "24 Hours in the Wicklow Mountains",
         "category": "Features",
         "url": "/features/24-wicklow",
         "tags": ["features"],
@@ -244,7 +255,7 @@
 
   
     {
-        "title": "24 hours: in the New Forest",
+        "title": "24 hours in the New Forest",
         "category": "Features",
         "url": "/features/24-newforest",
         "tags": ["microadventures","mushrooms","camping"],
@@ -290,7 +301,7 @@
 
   
     {
-        "title": "24 hours: in Norfolk",
+        "title": "24 hours in Norfolk",
         "category": "Features",
         "url": "/features/24-norfolk",
         "tags": ["microadventures","beach","camping"],
