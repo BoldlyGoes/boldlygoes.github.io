@@ -13,6 +13,30 @@ excerpt:   A list of all of our articles.
 <div class="tile-wrap no-touch">
   <div class="tile">
     <div class="boxInner">
+      <a href="{{ site.github.url }}/features/GR-20"><img src="{{ site.github.url }}/media/img/tiles/tile-gr20.jpg" /></a>
+      <div class="titleBox"><a href="{{ site.github.url }}/features/GR-20">HIKING THE GR20</a></div>
+    </div>
+  </div>
+  <div class="tile">
+    <div class="boxInner">
+      <a href="{{ site.github.url }}/features/wild-teas"><img src="{{ site.github.url }}/media/img/tiles/tile-wildteas.jpg" /></a>
+      <div class="titleBox"><a href="{{ site.github.url }}/features/wild-teas">A WILD TEA TASTING SESSION</a></div>
+    </div>
+  </div>
+  <div class="tile">
+    <div class="boxInner">
+      <a href="{{ site.github.url }}/features/24-peak-district"><img src="{{ site.github.url }}/media/img/tiles/tile-peakdistrict.jpg" /></a>
+      <div class="titleBox"><a href="{{ site.github.url }}/features/24-peak-district">24 HOURS IN THE PEAK DISTRICT: SUMMER SOLSTICE CAMP</a></div>
+    </div>
+  </div>
+  <div class="tile">
+    <div class="boxInner">
+      <a href="{{ site.github.url }}/features/going-ultralight-2"><img src="{{ site.github.url }}/media/img/tiles/tile-ultralight2.jpg" /></a>
+      <div class="titleBox"><a href="{{ site.github.url }}/features/going-ultralight-2">GOING ULTRALIGHT PART 2: REFINING THE ESSENTIAL</a></div>
+    </div>
+  </div>
+  <div class="tile">
+    <div class="boxInner">
       <a href="{{ site.github.url }}/features/black-sail"><img src="{{ site.github.url }}/media/img/tiles/tile-blacksail.jpg" /></a>
       <div class="titleBox"><a href="{{ site.github.url }}/features/black-sail">BLACK SAIL YOUTH HOSTEL</a></div>
     </div>
