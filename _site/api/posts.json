@@ -2,7 +2,18 @@
 
   
     {
-        "title": "The GR20 in 10 days",
+        "title": "Managing Diabetes in the mountains",
+        "category": "Features",
+        "url": "/features/managing-diabetes",
+        "tags": ["features"],
+        "date": "2017-08-18 00:00:00 +0100",
+        "language": "en"
+    },
+  
+
+  
+    {
+        "title": "Hiking the GR20",
         "category": "Features",
         "url": "/features/GR-20",
         "tags": ["features"],
