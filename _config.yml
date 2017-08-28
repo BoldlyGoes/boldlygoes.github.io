@@ -13,11 +13,11 @@ keywords:         outdoor camping travel bushcraft gear reviews
 language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
 baseurl:          "" # the subpath of your site, e.g. /blog
-url:              "https://www.boldlygoes.co.uk" # the base hostname & protocol for your site. Have a look at robots.txt as well!
+url:              "https://boldlygoes.co.uk" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /:categories/:title
 cover:            /assets/cover.jpg
 disqus_shortname: "BoldlyGoes"
-twitter:          "boldlygoes"
+twitter:          "boldlygoesuk"
 
 # Build settings
 markdown: kramdown
