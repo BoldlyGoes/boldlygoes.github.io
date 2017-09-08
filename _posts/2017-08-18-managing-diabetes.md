@@ -6,7 +6,7 @@ category:          Features
 author:            SA
 tags:              features  
 comments:          true
-excerpt:           
+excerpt:           Sam Amos takes us through how he manages to climb mountains while managing his Diabetes.
 ---
 
 I’m a walker and have been since I can remember. From tottering up the bottom section of the Watkin path on Snowdon at age two, to organising a three-day trek in Snowdonia at age fifteen, I have always felt at home exploring the mountains. By my early thirties I had walked extensively in Snowdonia as well completing hikes in the Lake District, Peak District and Scotland. I have a kind of obsession with Snowdon and have summited forty-two times by a number of different route combinations. Hiking and scrambling have always been my escape. When life gets tough, I run away to the mountains and am always renewed. 
