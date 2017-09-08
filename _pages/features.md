@@ -13,6 +13,12 @@ excerpt:   A list of all of our articles.
 <div class="tile-wrap no-touch">
   <div class="tile">
     <div class="boxInner">
+      <a href="{{ site.github.url }}/features/ray-mears"><img src="{{ site.github.url }}/media/img/tiles/tile-raymears.jpg" /></a>
+      <div class="titleBox"><a href="{{ site.github.url }}/features/ray-mears">Q&A WITH RAY MEARS</a></div>
+    </div>
+  </div>
+  <div class="tile">
+    <div class="boxInner">
       <a href="{{ site.github.url }}/features/GR-20"><img src="{{ site.github.url }}/media/img/tiles/tile-gr20.jpg" /></a>
       <div class="titleBox"><a href="{{ site.github.url }}/features/GR-20">HIKING THE GR20</a></div>
     </div>
