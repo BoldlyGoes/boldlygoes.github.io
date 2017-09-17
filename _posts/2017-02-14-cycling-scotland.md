@@ -4,7 +4,7 @@ title:             "Photo Story: Edinburgh to Stornorway"
 menutitle:         "Photo Story: Edinburgh to Stornorway"
 category:          Features
 author:            JB
-tags:              cycling adventure photostories 
+tags:              features 
 comments:          true
 ---
 

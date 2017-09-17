@@ -2,6 +2,17 @@
 
   
     {
+        "title": "Photo Story: Coast to Coast Part 1",
+        "category": "Features",
+        "url": "/features/c2c-part-1",
+        "tags": ["features"],
+        "date": "2017-09-17 00:00:00 +0100",
+        "language": "en"
+    },
+  
+
+  
+    {
         "title": "Q&A with Ray Mears",
         "category": "Features",
         "url": "/features/ray-mears",
@@ -302,7 +313,7 @@
         "title": "Photo Story: Edinburgh to Stornorway",
         "category": "Features",
         "url": "/features/cycling-scotland",
-        "tags": ["cycling","adventure","photostories"],
+        "tags": ["features"],
         "date": "2017-02-14 00:00:00 +0000",
         "language": "en"
     },
