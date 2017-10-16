@@ -10,8 +10,6 @@ excerpt:   The Boldly Goes mission statement.
 
 ---
 
-## About
-
 Boldly Goes is an online magazine dedicated to bringing its readers stories and photos from our adventures and microadventures in the UK and further afield. We are also committed to offering independent in-depth reviews of some of the products we’ve been using. 
 
 ![]({{ site.github.url }}/media/img/bg3.jpg)
