@@ -11,6 +11,16 @@ excerpt:   A list of all of our articles.
 ---
 
 <div class="tile-wrap no-touch">
+  <div class="tile">
+    <div class="boxInner">
+      <a href="{{ site.github.url }}/features/c2c-part-3">
+        <img src="{{ site.github.url }}/media/img/tiles/tile-c2c3.jpg" />
+      </a>
+      <div class="titleBox">
+        <a href="{{ site.github.url }}/features/c2c-part-3">COAST TO COAST PART 3</a>
+      </div>
+    </div>
+  </div>
    <div class="tile">
     <div class="boxInner">
       <a href="{{ site.github.url }}/features/c2c-part-2"><img src="{{ site.github.url }}/media/img/tiles/tile-c2c2.jpg" /></a>
